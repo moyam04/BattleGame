@@ -1,0 +1,3 @@
+Kamehameha	5	10	0.5
+Kiai	1	7	0.9
+Spirit Bomb	7	10	0.3
