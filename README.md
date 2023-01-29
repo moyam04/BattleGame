@@ -1,5 +1,4 @@
 # BattleGame
-//Manuel Moya Valdivia 260510582
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
