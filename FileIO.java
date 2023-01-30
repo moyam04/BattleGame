@@ -1,4 +1,3 @@
-//Manuel Moya Valdivia 260510582
 
 import java.io.*;
 import java.util.ArrayList;
